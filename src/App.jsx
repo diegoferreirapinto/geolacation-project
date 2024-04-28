@@ -56,10 +56,11 @@ export function App() {
 
   
   // function createMarkerPoint(e) {
-    
+  //
   //   pointLat = e.target.latlng.lat;
   //   pointLon = e.target.latlng.lng;
 
+  
   //   //console.log('Latitude:', lat, 'Longitude:', lng);
 
   //   //pensar em pegar todos os marcadores e colocar ele em um array
