@@ -5,7 +5,7 @@ import 'leaflet/dist/leaflet.css';
 
 export function App() {
 
-  const [mapa, setMapa] = useState()
+  // const [mapa, setMapa] = useState()
 
   useEffect(() => {
 
